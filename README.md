@@ -5,6 +5,7 @@ Otkrivanje/skrivanje tajne poruke
 Projekat 4 - otkrivanje/skrivanje tajne poruke
 Napisati program kojim se vrži otkrivanje tajne poruke koja se nalazi u slici i zapisuje je u
 novi PGMA file, a zatim u ulaznu sliku sakriva proizvoljnu novu poruku.
+
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 U slikama koje su zapisane u 8-bitnom formatu, mogu se izdvojiti pojedine bitske ravni. 
